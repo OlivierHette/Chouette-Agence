@@ -776,8 +776,11 @@ h4 {
 .tc-promesse {
     color: #FFBE8F!important;
 }
-.tc-white {
+.tc-dark-orange {
     color: #5A1501!important;
+}
+.tc-white {
+    color: #FFF!important;
 }
 .tc-light-orange {
     color: #FFBE8F!important;
